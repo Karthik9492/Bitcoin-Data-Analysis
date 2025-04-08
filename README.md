@@ -31,5 +31,17 @@ Quote asset volume: The total quote asset volume traded during the interval.
 Number of trades: The number of trades executed within the interval.
 
 Taker buy base asset volume: The volume of the base asset bought by takers.
+
 Taker buy quote asset volume: The volume of the quote asset spent by takers.
+
 Ignore: A placeholder column from Binance API, not used in analysis.
+
+# File Contents
+
+1.btc_15m_data_2018_to_present.csv: 15-minute interval data from 2018 to the present.
+
+2.btc_1h_data_2018_to_present.csv: 1-hour interval data from 2018 to the present.
+
+3.btc_4h_data_2018_to_present.csv: 4-hour interval data from 2018 to the present.
+
+4.btc_1d_data_2018_to_present.csv: 1-day interval data from 2018 to the present.
